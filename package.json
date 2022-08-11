@@ -1,0 +1,10 @@
+{
+  "name": "react-legend-mark",
+  "version": "0.0.1",
+  "description": "The component that draws a rectangle in one or two colors and in polka-dot",
+  "main": "dist/index.js",
+  "repository": "git@github.com:rotiuskyi/react-legend-mark.git",
+  "author": "Roman Otiuskyi <roman.otiuskyi@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
